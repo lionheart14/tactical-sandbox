@@ -1,0 +1,21 @@
+# --- IDE & Editor Config ---
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# --- Kompilierter Code (WICHTIG!) ---
+bin/
+out/
+target/
+*.class
+*.jar
+
+# --- Betriebssystem Müll ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
